@@ -23,7 +23,6 @@ public class BorderCollision : MonoBehaviour
 
                 col.transform.SendMessage("ObjSpawn");
             }
-            print("HEJ");
         }
 
 
